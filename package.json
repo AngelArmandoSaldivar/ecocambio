@@ -15,6 +15,5 @@
     "express": "^4.17.1",
     "mongoose": "^5.12.5"
   },
-  
-    "Ejecutar app": "npm run dev"
+  "Ejecutar app": "npm run dev"
 }
